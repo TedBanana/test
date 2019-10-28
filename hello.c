@@ -6,7 +6,7 @@ int main()
 {
    int a=14;
    int b=1;
-   printf("Hello world!\n");
+   printf("Hello world Ted!\n");
    printf("sum=%d\n",a+b);
 
   return(0);
