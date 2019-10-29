@@ -4,7 +4,7 @@
 
 int main()
 {
-   int a=14;
+   int a=13;
    int b=1;
    printf("Hello world Ted!\n");
    printf("sum=%d\n",a+b);
